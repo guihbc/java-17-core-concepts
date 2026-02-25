@@ -1,24 +1,24 @@
 ## Core Java Topics
 
-- 1. String, Date, Time and Numeric objects.
+1. String, Date, Time and Numeric objects.
     - 1.1. [StringBuilder class.](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/StringBuilder.html)
     - 1.2. [Date and Time.](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/time/package-summary.html)
     - 1.3. [BigDecimal class.](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/math/BigDecimal.html)
-- 2. [Object class (equals, hashCode, toString).](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object))
-- 3. [Enum classes.](https://docs.oracle.com/javase/specs/jls/se17/html/jls-8.html#jls-8.9)
-- 4. [Record classes.](https://docs.oracle.com/javase/specs/jls/se17/html/jls-8.html#jls-8.10)
-- 5. [Sealed classes.](https://docs.oracle.com/javase/specs/jls/se17/html/jls-8.html#jls-8.1.1.2)
-- 6. [Optional.](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Optional.html)
-- 7. [Exceptions.](https://docs.oracle.com/javase/specs/jls/se17/html/jls-11.html)
-- 8. [Generic classes and Type Parameters.](https://docs.oracle.com/javase/specs/jls/se17/html/jls-8.html#jls-8.1.2)
-- 9. Collection.
+2. [Object class (equals, hashCode, toString).](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object))
+3. [Enum classes.](https://docs.oracle.com/javase/specs/jls/se17/html/jls-8.html#jls-8.9)
+4. [Record classes.](https://docs.oracle.com/javase/specs/jls/se17/html/jls-8.html#jls-8.10)
+5. [Sealed classes.](https://docs.oracle.com/javase/specs/jls/se17/html/jls-8.html#jls-8.1.1.2)
+6. [Optional.](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Optional.html)
+7. [Exceptions.](https://docs.oracle.com/javase/specs/jls/se17/html/jls-11.html)
+8. [Generic classes and Type Parameters.](https://docs.oracle.com/javase/specs/jls/se17/html/jls-8.html#jls-8.1.2)
+9. Collection.
     - 9.1. [Collection.](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Collection.html)
     - 9.2. [Collections class.](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Collections.html)
-- 10. I/O and NIO
+10. I/O and NIO
     - 10.1. [I/O](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/package-summary.html)
     - 10.2. [NIO](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/nio/package-summary.html)
     - 10.3. [NIO File](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/nio/file/package-summary.html)
-- 11. JDBC
+11. JDBC
     - 11.1. [Driver.](https://docs.oracle.com/en/java/javase/17/docs/api/java.sql/java/sql/Driver.html)
     - 11.2. [Connection.](https://docs.oracle.com/en/java/javase/17/docs/api/java.sql/java/sql/Connection.html)
     - 11.3. [Statement.](https://docs.oracle.com/en/java/javase/17/docs/api/java.sql/java/sql/Statement.html)
@@ -26,19 +26,19 @@
     - 11.5. [CallableStatement.](https://docs.oracle.com/en/java/javase/17/docs/api/java.sql/java/sql/CallableStatement.html)
     - 11.6. [ResultSet.](https://docs.oracle.com/en/java/javase/17/docs/api/java.sql/java/sql/ResultSet.html)
     - 11.7. [DataSource.](https://docs.oracle.com/en/java/javase/17/docs/api/java.sql/javax/sql/DataSource.html)
-- 12. [Functional Interfaces.](https://docs.oracle.com/javase/specs/jls/se17/html/jls-9.html#jls-9.8)
-- 13. [Lambda Expressions.](https://docs.oracle.com/javase/specs/jls/se17/html/jls-15.html#jls-15.27)
-- 14. [Streams API.](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/stream/package-summary.html)
-- 15. [Concurrency and Multithreading.](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/concurrent/package-summary.html)
+12. [Functional Interfaces.](https://docs.oracle.com/javase/specs/jls/se17/html/jls-9.html#jls-9.8)
+13. [Lambda Expressions.](https://docs.oracle.com/javase/specs/jls/se17/html/jls-15.html#jls-15.27)
+14. [Streams API.](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/stream/package-summary.html)
+15. [Concurrency and Multithreading.](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/concurrent/package-summary.html)
     - 15.1. [Thread.](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Thread.html)
     - 15.2. [Atomic.](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/concurrent/atomic/package-summary.html)
     - 15.3. [Locks.](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/concurrent/locks/package-summary.html)
     - 15.4. [Synchronized Methods.](https://docs.oracle.com/javase/specs/jls/se17/html/jls-8.html#jls-8.4.3.6)
     - 15.5. [Threads and Locks.](https://docs.oracle.com/javase/specs/jls/se17/html/jls-17.html)
-- 16. Annotations.
+16. Annotations.
     - 16.1. [Annotation Interfaces.](https://docs.oracle.com/javase/specs/jls/se17/html/jls-9.html#jls-9.6)
     - 16.2. [Annotations.](https://docs.oracle.com/javase/specs/jls/se17/html/jls-9.html#jls-9.7)
-- 17. [Reflections.](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/reflect/package-summary.html)
+17. [Reflections.](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/reflect/package-summary.html)
 
 ---
 ## Common Java Questions
