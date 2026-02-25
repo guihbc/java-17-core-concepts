@@ -1,19 +1,19 @@
-## Core Java Topics
+## Java Core Concepts
 
 1. String, Date, Time and Numeric objects.
     - 1.1. [StringBuilder class.](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/StringBuilder.html)
     - 1.2. [Date and Time.](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/time/package-summary.html)
     - 1.3. [BigDecimal class.](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/math/BigDecimal.html)
 2. [Object class (equals, hashCode, toString).](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object))
+    - 2.1. [Objects class.](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Objects.html)
 3. [Enum classes.](https://docs.oracle.com/javase/specs/jls/se17/html/jls-8.html#jls-8.9)
 4. [Record classes.](https://docs.oracle.com/javase/specs/jls/se17/html/jls-8.html#jls-8.10)
 5. [Sealed classes.](https://docs.oracle.com/javase/specs/jls/se17/html/jls-8.html#jls-8.1.1.2)
 6. [Optional.](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Optional.html)
 7. [Exceptions.](https://docs.oracle.com/javase/specs/jls/se17/html/jls-11.html)
 8. [Generic classes and Type Parameters.](https://docs.oracle.com/javase/specs/jls/se17/html/jls-8.html#jls-8.1.2)
-9. Collection.
-    - 9.1. [Collection.](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Collection.html)
-    - 9.2. [Collections class.](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Collections.html)
+9. [Collection.](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Collection.html)
+    - 9.1. [Collections class.](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Collections.html)
 10. I/O and NIO
     - 10.1. [I/O](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/package-summary.html)
     - 10.2. [NIO](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/nio/package-summary.html)
